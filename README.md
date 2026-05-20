@@ -1,4 +1,3 @@
-```markdown
 # YouTube Playlist to MP3 Downloader
 
 Скрипт позволяет скачать все видео из плейлиста на YouTube в формате MP3.
@@ -47,4 +46,3 @@ python youtube_music_downloader.py
 При запуске скрипт запросит:
 - `playlist_url` — ссылка на плейлист YouTube
 - `file_path` — путь, куда скачаются MP3 файлы
-```
