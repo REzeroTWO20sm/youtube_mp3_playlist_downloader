@@ -16,8 +16,8 @@ def download_audio_from_playlist(url, output_path):
         ],
         "outtmpl": f"{output_path}/%(title).80s.%(ext)s",
         "download_archive": f"{output_path}/archive.txt",
-        "restrictfilenames": True,
-        "windows_filenames": True,
+        "restrictfilenames": False,
+        "windows_filenames": False,
         "quiet": False,
     }
 
